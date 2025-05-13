@@ -41,7 +41,6 @@ Our goal is to compare their effectiveness on the Kaggle Credit Card Fraud datas
 ## Project Structure
 
 ```
-├── creditcard.csv                      # Dataset file
 ├── Group12_Fraud_Detection2.ipynb  # Main analysis and models
 └── README.md                           # Project documentation
 ```
